@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alles over erfenissen: wie krijgt mijn erfenis en handige tools om het te berekenen.">
+    <title>Wie krijgt mijn erfenis?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-size: 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+        .cta-button:hover {
+            background-color: #45a049;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Wie krijgt mijn erfenis?</h1>
+        <p>Informatie en tools om alles over erfenissen te begrijpen.</p>
+    </header>
+    
+    <nav>
+        <a href="#informatie">Informatie</a>
+        <a href="#calculatietool">Calculatietool</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <div class="container">
+        <h2>Welkom op Wie krijgt mijn erfenis?</h2>
+        <p>
+            Heb je vragen over erfenissen? Of wil je weten hoe jouw erfenis verdeeld wordt? Op deze website vind je 
+            uitgebreide informatie over erfrecht, belasting en nog veel meer.
+        </p>
+        <a href="#calculatietool" class="cta-button">Bereken je erfenis</a>
+    </div>
+    
+    <footer>
+        <p>&copy; 2024 Wie krijgt mijn erfenis? Alle rechten voorbehouden.</p>
+    </footer>
+</body>
+</html>
